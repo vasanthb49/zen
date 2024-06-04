@@ -1,0 +1,23 @@
+var fruits = "orange";
+console.log(fruits);
+var batch = "B52 WD tamil";
+console.log (batch);
+var nooftoys = 1;
+console.log(nooftoys);
+var age = 21;
+var agestring = age.toString();
+console.log(agestring);
+var fruits = "mango";
+console.log(fruits.length);
+var fruits = "apple";
+console.log (fruits.toUpperCase());
+var fruits = "APPLE";
+console.log (fruits.toLowerCase());
+var fruits = "orange";
+console.log (fruits.charAt(4));
+var toys = "train"
+console.log (toys.substring(2,4))
+var name = "Durga"
+console.log (name.substring(0,5))
+var person = ["Durga", 9,7,6]
+console.log(person [1])
